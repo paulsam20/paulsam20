@@ -65,7 +65,7 @@ I am a driven and curious individual with strong research, collaboration, and co
 ---
  
 ## 🏆 LeetCode Profile  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/O6YL5RoPDn?theme=dark&font=Baloo&ext=activity&ext=contest)](https://leetcode.com/u/O6YL5RoPDn/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/O6YL5RoPDn?theme=dark&font=Baloo&ext=activity&ext=contest)](https://leetcode.com/u/paulsam_20/)
 
 
 ---
